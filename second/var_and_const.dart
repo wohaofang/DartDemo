@@ -13,4 +13,6 @@ void main(){
   print(b);
 
   //const 使用const声明的必须是编译
+  const haha = '111';
+  print(haha);
 }
